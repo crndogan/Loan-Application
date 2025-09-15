@@ -8,9 +8,7 @@ Predictive modeling of Small Business Administration (SBA) loan defaults using C
 Models are trained and evaluated to classify loans as paid in full or default.
 
 ## Data
-- Source: SBA National Data (`SBAnational.csv`)  
-- Target: `MIS_Status` → 0 (Paid in Full), 1 (Default)  
-- Preprocessing: dropped identifiers, recoded categorical fields, removed missing values, sampled 5,000 records
+ Preprocessing: dropped identifiers, recoded categorical fields, removed missing values, sampled 5,000 records
 
 ## Workflow
 1. **Preprocessing**: handle NAs, feature scaling, categorical encoding  

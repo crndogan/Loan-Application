@@ -1,4 +1,4 @@
-# SBA Loan Default Prediction
+# SBA Loan Default Prediction - Machine Learning Approach
 
 ## Libraries
 pandas, numpy, scikit-learn, matplotlib, seaborn, statsmodels, dmba, mord
